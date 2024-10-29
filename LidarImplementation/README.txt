@@ -1,0 +1,1 @@
+nodo che si occupa della pubblicazione dei dati del lidar nel topic /scan

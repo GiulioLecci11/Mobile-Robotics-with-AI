@@ -1,0 +1,1 @@
+Questi 3 file sono le versioni pulite di 3 file che si possono trovare anche nella cartella zippata, le versioni pulite finiscono nel report ma non so se eseguono correttamente perché le ho pulite tramite windows e mai provate

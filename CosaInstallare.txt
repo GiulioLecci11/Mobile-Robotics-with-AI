@@ -1,0 +1,8 @@
+Installazione di microros + ros 2
+ https://www.hackster.io/514301/micro-ros-on-esp32-using-arduino-ide-1360ca    IN PARTICOLARE SEGUI DA SETUP ARDUINO IDE PER INSTALLARE LE LIBRERIE DI MICROROS E QUESTO SI PUO' FARE SU WINDOWS, ROS2 DEVE GIRARE SU LINUX
+
+Installare librerie ESP32 su Arduino IDE (qualsiasi OS) NOTA CHE DEVI SCEGLIERE IL TUTORIAL PER ARDUINO IDE 2
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/   
+
+Installare librerie ESP32 su VS code (Platform IO)
+https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
